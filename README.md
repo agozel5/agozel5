@@ -58,7 +58,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/abd ullah-gözel" target="_blank">
+  <a href="www.linkedin.com/in/abdullah-gözel" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
   </a>
   <a href="atom.68" target="_blank">
