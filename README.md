@@ -1,8 +1,17 @@
-<h1 align="left">Greeting👋, I'm GOZEL Abdullah</h1>
+<div>
+   <h1 align="center"?
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+G%C3%96ZEL+Abdullah!&color=F00" /> </a>
+  
+   </h1>
+</div>
+
+
 
 ###
 
-<h2 align="left">I am a French IT student !</h2>
+   <h2 align="center"?
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&repeat=false&random=false&width=700&height=100&duration=4000&lines=I'm+a+Cybersecurity+student+in+France!" !&color=00F" /> </a>
+   </h2>
 
 ###
 
